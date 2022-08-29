@@ -1,2 +1,0 @@
-# kodi1
-kodi
